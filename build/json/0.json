@@ -1,0 +1,44 @@
+{
+  "dna": "7548b2ab6b3f86420235ac773969ef8e8e0f531418e3e52b4f1f67b1f6df3292",
+  "name": "#0",
+  "description": "ACI Man living on the chain",
+  "image": "ipfs://NewUriToReplace/0.png",
+  "imageHash": "038bbed69d0923ec7559d4dbfedad407344109f9d0dc0765001a5bbc7ac9a7cb",
+  "edition": 0,
+  "date": 1658616002019,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "stars"
+    },
+    {
+      "trait_type": "Back Accessory",
+      "value": "rockets"
+    },
+    {
+      "trait_type": "Head",
+      "value": "faceA"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Shirt three"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "eyesa"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clippingexample_0002_bluehair"
+    },
+    {
+      "trait_type": "Shirt Accessories",
+      "value": "nametag"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": " Bottom lid # 80.27832349944748"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}
